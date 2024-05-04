@@ -1,7 +1,7 @@
 # TP3DPBO2024C2
 
 # Janji
-/Saya Muhammad Rifky Afandi dengan NIM 2202346 mengerjakan TP2 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin./
+/Saya Muhammad Rifky Afandi dengan NIM 2202346 mengerjakan TP3 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin./
 
 # Desain Program
 Disini kita akan membuat sebuah website yang memiliki CRUD (Create, Read, Update, Delete) dan Databasenya. DIsini saya mengambil tema anggita DPR yang terdiri dari:
